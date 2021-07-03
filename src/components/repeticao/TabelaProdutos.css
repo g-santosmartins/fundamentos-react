@@ -1,0 +1,18 @@
+.TabelaProdutos table {
+  width: 100%;
+  display: inline;
+  flex-direction: column;
+}
+
+.TabelaProdutos th {
+  background-color: #220ca1;
+  color: #fff;
+}
+/* para classe condicional */
+.TabelaProdutos .Par {
+  background-color: #ddd;
+}
+
+.TabelaProdutos .Impar {
+  background-color: #a0a0a0;
+}
